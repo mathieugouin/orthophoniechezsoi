@@ -3,7 +3,10 @@ Public files for Orthophonie chez soi (Mélodie Gagnon)
 
 <https://mathieugouin.github.io/orthophoniechezsoi>
 
-## HTML Notes
+## Notes
+
+### HTML
+* `<p class="class1 class2">hello</p>` More than one class can be selected (space separated).
 
 ### CSS
 
