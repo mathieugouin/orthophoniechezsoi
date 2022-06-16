@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="1658.6696"
-     inkscape:cy="853.10039"
+     inkscape:zoom="1.1711455"
+     inkscape:cx="1816.4984"
+     inkscape:cy="749.94853"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,14 +37,88 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="true"
-     inkscape:snap-bbox="false"
-     inkscape:snap-bbox-midpoints="false">
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:lockguides="false"
+     inkscape:snap-nodes="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:measure-start="1420,814"
+     inkscape:measure-end="1751.5,814"
+     inkscape:bbox-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="false">
     <inkscape:grid
        type="xygrid"
        id="grid831" />
+    <sodipodi:guide
+       position="375.70831,157.16249"
+       orientation="1,0"
+       id="guide856"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="464.60831,157.16249"
+       orientation="1,0"
+       id="guide858"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="375.70831,157.16249"
+       orientation="0,1"
+       id="guide860"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="375.70831,207.96249"
+       orientation="0,1"
+       id="guide862"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="375.70831,119.85626"
+       orientation="0,1"
+       id="guide952"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="375.70831,128.32292"
+       orientation="0,1"
+       id="guide954"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="420.15831,182.56249"
+       orientation="1,0"
+       id="guide939"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="420.15831,182.56249"
+       orientation="0,1"
+       id="guide941"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="375.70831,106.26637"
+       orientation="0,1"
+       id="guide958"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="410.94294,109.16141"
+       orientation="0,1"
+       id="guide960"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="415.90192,194.15997"
+       orientation="0,1"
+       id="guide931"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="415.90192,170.96502"
+       orientation="0,1"
+       id="guide933"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="414.49497,192.14008"
+       orientation="1,0"
+       id="guide935"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -54,16 +128,59 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Guides"
+     style="display:none">
+    <rect
+       transform="translate(0,-81.100001)"
+       style="display:inline;opacity:1;fill:#ae6e24;fill-opacity:0.71563984;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect933"
+       width="88.900002"
+       height="50.799999"
+       x="375.70831"
+       y="89.037514" />
+    <path
+       transform="translate(0,-81.100001)"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 464.60831,139.83751 -88.90001,-50.8"
+       id="path935"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       transform="translate(0,-81.100001)"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path937"
+       d="m 464.60831,89.03751 -88.90001,50.8"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="89.037514"
+       x="375.70831"
+       height="50.799999"
+       width="88.900002"
+       id="rect906"
+       style="display:inline;opacity:1;fill:#ae6e24;fill-opacity:0.71563984;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="translate(0,-81.100001)" />
+  </g>
   <g
      inkscape:label="Logo"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-81.1)"
      style="display:inline">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#006e24;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect910"
+       width="88.100006"
+       height="50"
+       x="376.10831"
+       y="89.437515" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:23.98835182px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -92,23 +209,26 @@
          x="87.031181"
          y="227.88394"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222214px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332">Mélodie Gagnon M.P.O.</tspan></text>
-    <path
-       inkscape:export-ydpi="32.048016"
-       inkscape:export-xdpi="32.048016"
-       style="fill:#010201;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 144.78659,170.995 h 4.46581 v 6.56312 l -4.46581,-1.47211 z"
-       id="path1003"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 133.76496,167.15266 c -18.11409,11.55518 -36.320843,22.32898 -55.052454,28.65458 18.350704,-4.53375 36.701754,-11.85149 55.052454,-22.02966 18.3507,10.17817 36.70124,17.49591 55.05194,22.02966 -18.73161,-6.3256 -36.93785,-17.0994 -55.05194,-28.65458 z"
-       id="path1027"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
-       inkscape:export-xdpi="32.048016"
-       inkscape:export-ydpi="32.048016" />
+    <g
+       id="g1700">
+      <path
+         inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path1003"
+         d="m 144.78659,170.995 h 4.46581 v 6.56312 l -4.46581,-1.47211 z"
+         style="fill:#010201;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-xdpi="32.048016"
+         inkscape:export-ydpi="32.048016" />
+      <path
+         inkscape:export-ydpi="32.048016"
+         inkscape:export-xdpi="32.048016"
+         inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+         inkscape:connector-curvature="0"
+         id="path1027"
+         d="m 133.76496,167.15266 c -18.11409,11.55518 -36.320843,22.32898 -55.052454,28.65458 18.350704,-4.53375 36.701754,-11.85149 55.052454,-22.02966 18.3507,10.17817 36.70124,17.49591 55.05194,22.02966 -18.73161,-6.3256 -36.93785,-17.0994 -55.05194,-28.65458 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
     <g
        id="g1094"
        transform="matrix(0.37849574,-0.09189656,0.09189678,0.3784966,26.239681,123.01352)"
@@ -129,5 +249,611 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csczzcccszcsszcsscscc" />
     </g>
+    <text
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-xdpi="32.048016"
+       id="text868"
+       y="118.17645"
+       x="420.02396"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332"
+         y="118.17645"
+         x="420.02396"
+         id="tspan866"
+         sodipodi:role="line">514-943-5396</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot886"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion888"><rect
+           id="rect890"
+           width="267.28635"
+           height="103.94469"
+           x="1513.9155"
+           y="176.06837" /></flowRegion><flowPara
+         id="flowPara892" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot894"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS'"><rect
+           id="rect898"
+           width="176.06958"
+           height="94.752304"
+           x="1535.1288"
+           y="264.45673"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS'" /></flowRegion><flowPara
+         id="flowPara900" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path875"
+       d="m 380.55556,174.92501 c -0.69992,-1.22062 -1.32612,-2.40163 -1.39155,-2.62447 -0.37261,-1.26903 0.22848,-2.63237 1.42876,-3.24062 0.85404,-0.43276 1.77838,-0.4169 2.64981,0.0455 0.53899,0.28598 0.90013,0.68182 1.20054,1.31584 0.20781,0.43858 0.25982,0.68404 0.25459,1.1249 -0.004,0.42124 -0.0752,0.74112 -0.17556,0.98401 -0.1675,0.40514 -2.58386,4.61268 -2.64955,4.61357 -0.0243,2e-4 -0.61712,-0.9981 -1.31704,-2.21872 z m 2.35666,-0.51261 c 1.09324,-1.8991 1.2149,-2.16429 1.25995,-2.7465 0.069,-0.89196 -0.51206,-1.84717 -1.34397,-2.20927 -0.54232,-0.23606 -1.35628,-0.23528 -1.90105,0.003 -0.81211,0.35345 -1.36787,1.22486 -1.35413,2.1232 0.008,0.56662 0.16247,0.91114 1.26239,2.82788 0.7469,1.30156 1.06863,1.72607 1.06863,1.72607 0,0 0.50931,-0.85658 1.00818,-1.72319 z m -1.42302,-1.51987 c -0.60558,-0.18234 -1.1034,-0.82228 -1.09975,-1.41369 0.004,-0.69112 0.55763,-1.3236 1.27588,-1.45836 0.89239,-0.16741 1.83345,0.77465 1.66965,1.67138 -0.16029,0.87745 -1.03326,1.44532 -1.84578,1.20067 z m 0.87738,-0.59829 c 0.6944,-0.42916 0.59004,-1.44153 -0.17651,-1.71228 -0.85183,-0.30088 -1.59831,0.62142 -1.12405,1.3888 0.29035,0.46979 0.84188,0.60697 1.30056,0.32348 z"
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.99999994"
+       sodipodi:nodetypes="scccccccscscccccccscccssccs" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 390.8234,168.67707 h -3.56227 c -0.34093,0 -0.61613,0.27644 -0.61613,0.61675 v 7.23377 c 0,0.34 0.2752,0.61613 0.61613,0.61613 h 3.56227 c 0.34031,0 0.61614,-0.27613 0.61614,-0.61613 v -7.23377 c 0,-0.34031 -0.27583,-0.61675 -0.61614,-0.61675 z m -2.66013,0.37455 h 1.75861 c 0.0444,0 0.0806,0.0663 0.0806,0.14841 0,0.0821 -0.0362,0.14871 -0.0806,0.14871 h -1.75861 c -0.0447,0 -0.0802,-0.0667 -0.0802,-0.14871 0,-0.0821 0.0354,-0.14841 0.0802,-0.14841 z m 0.87931,7.48337 c -0.2169,0 -0.39337,-0.17648 -0.39337,-0.39369 0,-0.21718 0.17647,-0.39305 0.39337,-0.39305 0.21628,0 0.39276,0.17587 0.39276,0.39305 0,0.21721 -0.17648,0.39369 -0.39276,0.39369 z m 1.93539,-1.34795 h -3.8711 v -5.4693 h 3.8711 z"
+       id="path902"
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.26458332" />
+    <g
+       id="g904"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g906"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g908"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g910"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g912"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g914"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g916"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g918"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g920"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g922"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g924"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g926"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g928"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g930"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       id="g932"
+       transform="matrix(0.26458333,0,0,0.26458333,440.73571,167.5245)" />
+    <g
+       transform="matrix(0.02579727,0,0,0.02579727,394.41885,166.59008)"
+       id="g877"
+       style="fill:#006e24;fill-opacity:1;stroke-width:10.25625515">
+      <path
+         d="M 295.2,257.8 251.4,295 c -3.5,2.9 -8.6,2.9 -12,0 L 195.6,257.9 16.7,409.1 h 456.6 z"
+         id="path2-3"
+         inkscape:connector-curvature="0"
+         style="fill:#006e24;fill-opacity:1;stroke-width:10.25625515" />
+      <polygon
+         points="0,397.8 180.1,245 0,92.2 "
+         id="polygon4"
+         style="fill:#006e24;fill-opacity:1;stroke-width:10.25625515" />
+      <polygon
+         points="245,274.6 473.3,80.9 16.7,80.9 "
+         id="polygon6"
+         style="fill:#006e24;fill-opacity:1;stroke-width:10.25625515" />
+      <polygon
+         points="490,397.8 490,92.2 309.9,245 "
+         id="polygon8"
+         style="fill:#006e24;fill-opacity:1;stroke-width:10.25625515" />
+    </g>
+    <text
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-xdpi="32.048016"
+       id="text905"
+       y="125.06353"
+       x="420.15488"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332"
+         y="125.06353"
+         x="420.15488"
+         id="tspan903"
+         sodipodi:role="line">www.orthophoniechezsoi.ca</tspan></text>
+    <text
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-xdpi="32.048016"
+       id="text909"
+       y="121.52287"
+       x="420.15488"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332"
+         y="121.52287"
+         x="420.15488"
+         id="tspan907"
+         sodipodi:role="line">orthophoniechezsoi@gmail.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="420.02396"
+       y="114.52672"
+       id="text913"
+       inkscape:export-xdpi="32.048016"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"><tspan
+         sodipodi:role="line"
+         id="tspan911"
+         x="420.02396"
+         y="114.52672"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332">6942 Alcide-Métivier, St-Hubert, Qc</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 410.66147,168.67931 c -0.006,0.001 -0.0131,0.004 -0.0189,0.006 -0.009,0.004 -0.0173,0.007 -0.0252,0.0131 -0.003,0 -0.004,0 -0.006,0 -0.004,0.001 -0.009,0.004 -0.0131,0.006 -0.003,0.003 -0.004,0.004 -0.006,0.006 -0.003,0.003 -0.004,0.004 -0.006,0.006 -0.006,0.004 -0.0131,0.007 -0.0189,0.0131 -0.004,0.004 -0.009,0.007 -0.0131,0.0131 -0.003,0.004 -0.004,0.009 -0.006,0.0131 -0.007,0.007 -0.0131,0.0166 -0.0189,0.0252 -0.003,0.003 -0.004,0.004 -0.006,0.006 0,0.003 0,0.004 0,0.006 -0.003,0.004 -0.004,0.009 -0.006,0.0131 -0.003,0.003 -0.004,0.004 -0.006,0.006 0,0.004 0,0.009 0,0.0131 -0.003,0.007 -0.004,0.0166 -0.006,0.0252 0,0.006 0,0.0131 0,0.0189 0,0.003 0,0.004 0,0.006 0,0.003 0,0.004 0,0.006 -7.6e-4,0.0102 -7.6e-4,0.0212 0,0.0314 v 6.61967 c 7.6e-4,0.0803 0.0489,0.15274 0.12276,0.18423 0.0732,0.0314 0.15904,0.0157 0.2173,-0.0394 l 1.46124,-1.37307 1.17782,2.72093 c 0.022,0.0496 0.063,0.089 0.11418,0.10793 0.0512,0.0189 0.10793,0.0166 0.15667,-0.007 l 0.88178,-0.40333 c 0.10007,-0.0457 0.14487,-0.16375 0.1008,-0.26452 l -1.22821,-2.68315 2.0533,-0.17635 c 0.081,-0.006 0.15117,-0.0591 0.17794,-0.13615 0.026,-0.0772 0.003,-0.16296 -0.0583,-0.21651 l -4.80572,-4.47819 c -0.009,-0.0116 -0.0196,-0.022 -0.0314,-0.0314 -0.007,-0.009 -0.0157,-0.0173 -0.0252,-0.0252 -0.003,0 -0.004,0 -0.006,0 -0.004,-0.004 -0.007,-0.009 -0.0131,-0.0131 -0.003,0 -0.004,0 -0.006,0 -0.0102,-0.004 -0.0205,-0.009 -0.0314,-0.0131 -0.003,0 -0.004,0 -0.006,0 -0.004,-0.003 -0.009,-0.004 -0.0131,-0.006 -0.003,0 -0.004,0 -0.006,0 -0.004,0 -0.009,0 -0.0131,0 -0.003,0 -0.004,0 -0.006,0 -0.004,0 -0.009,0 -0.0131,0 -0.003,0 -0.004,0 -0.006,0 -0.006,0 -0.0131,0 -0.0189,0 -0.006,0 -0.0131,0 -0.0189,0 z m 0.24564,0.66134 4.16957,3.89243 -1.88953,0.16377 c -0.0646,0.006 -0.12204,0.0434 -0.15432,0.0999 -0.033,0.0558 -0.0362,0.12436 -0.009,0.18345 l 1.26598,2.75871 -0.51648,0.23305 -1.2093,-2.79022 c -0.026,-0.0599 -0.0787,-0.10385 -0.14255,-0.11724 -0.0637,-0.0145 -0.13062,0.004 -0.17872,0.048 l -1.33526,1.25339 z"
+       id="path2-36"
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.26458335" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 418.91634,177.14556 c -0.0244,0 -0.0488,-0.005 -0.0725,-0.0134 -0.0504,-0.0197 -0.0906,-0.0583 -0.11261,-0.10788 l -1.17646,-2.71986 -1.46387,1.37568 c -0.0583,0.0552 -0.1441,0.0693 -0.21813,0.0378 -0.0732,-0.0315 -0.12126,-0.10473 -0.12126,-0.18505 v -6.65241 c 0,-0.0803 0.0472,-0.15277 0.12126,-0.18505 0.0732,-0.0315 0.15907,-0.0173 0.21813,0.0378 l 4.83811,4.51526 c 0.0583,0.0543 0.0787,0.13859 0.0527,0.2134 -0.026,0.0756 -0.0937,0.12835 -0.17325,0.13544 l -2.05289,0.17639 1.23079,2.68364 c 0.022,0.048 0.0244,0.10395 0.005,0.15434 -0.0189,0.0504 -0.0559,0.0906 -0.10473,0.11261 l -0.88747,0.40317 c -0.0267,0.0118 -0.0543,0.0181 -0.0835,0.0181 z"
+       id="path2"
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.26458332" />
+    <g
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-xdpi="32.048016"
+       style="stroke-width:2.21624565"
+       transform="matrix(0.43847417,-0.10645898,0.10645924,0.43847516,264.33943,34.650666)"
+       id="g931">
+      <circle
+         r="25.586754"
+         cy="239.17358"
+         cx="235.6291"
+         id="circle927"
+         style="opacity:1;fill:#006e24;fill-opacity:1;stroke:#000000;stroke-width:0.2216246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csczzcccszcsszcsscscc"
+         inkscape:connector-curvature="0"
+         id="path929"
+         d="m 240.64686,264.25828 c -2.48469,-1.78336 -3.73663,-4.60811 -4.45083,-6.55276 -2.21292,-6.02541 -7.65671,-9.69385 -13.72822,-9.85188 6.90854,2.13365 12.20472,7.46055 11.72788,9.35494 -0.47684,1.89438 -3.83546,4.58752 -10.02747,0.9969 -6.19201,-3.59062 -4.75112,-12.32469 -12.98111,-13.03075 10.33711,-3.2032 24.52777,-1.25983 25.35039,9.32658 2.8799,-8.82508 0.92833,-18.03949 -6.55876,-24.05811 5.04092,5.71311 7.06803,14.16119 5.7523,14.34536 -2.65016,0.37096 -7.41559,-3.92209 -8.88775,-7.1671 -1.47216,-3.24502 -2.53923,-11.91716 -5.66523,-13.02378 15.9359,1.59229 20.44892,9.82884 18.4957,13.9294 -1.27747,2.68189 -1.30207,10.22465 -0.42638,10.50512 1.09481,0.35065 1.40788,-6.73457 6.57624,-9.4358 5.16837,-2.70123 10.71858,-3.10545 15.07931,0.95703 -4.78396,-0.55406 -6.48402,7.47804 -10.23883,12.0332 -2.99316,3.63116 -7.76491,2.99761 -9.58705,2.06186 -3.38081,-1.73619 5.37458,-9.91778 11.1449,-13.20815 -7.81696,2.40068 -13.29036,8.77241 -14.21953,15.59612 -0.32406,2.37985 2.3079,6.62033 6.21273,6.23376 -1.135,0.39785 -2.29285,0.76692 -3.56829,0.98806 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2216246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#006e24;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 409.81127,103.12768 v 22.63714"
+       id="path946"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-xdpi="32.048016"
+       id="text950"
+       y="106.19236"
+       x="414.56763"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="106.19236"
+         x="414.56763"
+         id="tspan948"
+         sodipodi:role="line">Mélodie Gagnon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="414.56763"
+       y="109.7029"
+       id="text954"
+       inkscape:export-xdpi="32.048016"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"><tspan
+         sodipodi:role="line"
+         id="tspan952"
+         x="414.56763"
+         y="109.7029"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332">Orthophoniste, M.P.O.</tspan></text>
+    <path
+       sodipodi:nodetypes="scccccccscscccccccscccssccs"
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.99999988"
+       d="m 377.5687,189.96868 c -0.24131,-0.42081 -0.4572,-0.82799 -0.47976,-0.90481 -0.12846,-0.43751 0.0788,-0.90755 0.49259,-1.11726 0.29444,-0.1492 0.61312,-0.14373 0.91355,0.0157 0.18583,0.0986 0.31034,0.23506 0.41392,0.45365 0.0716,0.15121 0.0895,0.23583 0.0878,0.38782 -9.2e-4,0.14524 -0.0259,0.25551 -0.0605,0.33926 -0.0578,0.13968 -0.89082,1.59029 -0.91346,1.59059 -0.008,7e-5 -0.21277,-0.34411 -0.45408,-0.76494 z m 0.81249,-0.17673 c 0.37691,-0.65474 0.41886,-0.74617 0.43439,-0.9469 0.0238,-0.3075 -0.17655,-0.63682 -0.46335,-0.76167 -0.18697,-0.0814 -0.4676,-0.0811 -0.65542,9.3e-4 -0.27999,0.12184 -0.47159,0.42227 -0.46686,0.73199 0.003,0.19535 0.056,0.31413 0.43523,0.97496 0.2575,0.44872 0.36843,0.59508 0.36843,0.59508 0,0 0.17559,-0.29532 0.34758,-0.59409 z m -0.4906,-0.52398 c -0.20879,-0.0628 -0.38042,-0.2835 -0.37916,-0.4874 9.2e-4,-0.23827 0.19225,-0.45632 0.43988,-0.50279 0.30766,-0.0577 0.63211,0.26708 0.57564,0.57623 -0.0553,0.30251 -0.35624,0.49829 -0.63636,0.41396 z m 0.30248,-0.20628 c 0.23941,-0.14796 0.20342,-0.49699 -0.0609,-0.59033 -0.29368,-0.10373 -0.55105,0.21424 -0.38754,0.47881 0.1001,0.16196 0.29026,0.20925 0.44839,0.11152 z"
+       id="path956"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.26458332"
+       id="path962"
+       d="m 382.83526,187.83859 h -1.21806 c -0.11658,0 -0.21068,0.0945 -0.21068,0.21088 v 2.47348 c 0,0.11626 0.0941,0.21068 0.21068,0.21068 h 1.21806 c 0.11637,0 0.21068,-0.0944 0.21068,-0.21068 v -2.47348 c 0,-0.11635 -0.0943,-0.21088 -0.21068,-0.21088 z m -0.90959,0.12807 h 0.60133 c 0.0152,0 0.0276,0.0226 0.0276,0.0507 0,0.0281 -0.0124,0.0509 -0.0276,0.0509 h -0.60133 c -0.0153,0 -0.0274,-0.0228 -0.0274,-0.0509 0,-0.0281 0.0121,-0.0507 0.0274,-0.0507 z m 0.30067,2.55882 c -0.0742,0 -0.1345,-0.0603 -0.1345,-0.13461 0,-0.0743 0.0603,-0.1344 0.1345,-0.1344 0.074,0 0.13429,0.0601 0.13429,0.1344 0,0.0743 -0.0603,0.13461 -0.13429,0.13461 z m 0.66177,-0.46091 h -1.32365 v -1.87014 h 1.32365 z"
+       inkscape:connector-curvature="0" />
+    <g
+       style="fill:#006e24;fill-opacity:1;stroke-width:29.99479294"
+       id="g972"
+       transform="matrix(0.00882098,0,0,0.00882098,385.94256,187.12497)">
+      <path
+         style="fill:#006e24;fill-opacity:1;stroke-width:29.99479294"
+         inkscape:connector-curvature="0"
+         id="path964"
+         d="M 295.2,257.8 251.4,295 c -3.5,2.9 -8.6,2.9 -12,0 L 195.6,257.9 16.7,409.1 h 456.6 z" />
+      <polygon
+         style="fill:#006e24;fill-opacity:1;stroke-width:29.99479294"
+         id="polygon966"
+         points="180.1,245 0,92.2 0,397.8 " />
+      <polygon
+         style="fill:#006e24;fill-opacity:1;stroke-width:29.99479294"
+         id="polygon968"
+         points="473.3,80.9 16.7,80.9 245,274.6 " />
+      <polygon
+         style="fill:#006e24;fill-opacity:1;stroke-width:29.99479294"
+         id="polygon970"
+         points="490,92.2 309.9,245 490,397.8 " />
+    </g>
+    <path
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.26458332"
+       id="path974"
+       d="m 394.87696,190.73377 c -0.008,0 -0.0167,-9.2e-4 -0.0249,-0.005 -0.0173,-0.006 -0.031,-0.02 -0.0385,-0.0369 l -0.40228,-0.93004 -0.50056,0.4704 c -0.02,0.0189 -0.0492,0.0237 -0.0746,0.0129 -0.025,-0.0108 -0.0415,-0.0358 -0.0415,-0.0632 v -2.27473 c 0,-0.0274 0.0162,-0.0522 0.0415,-0.0632 0.025,-0.0108 0.0544,-0.006 0.0746,0.0129 l 1.65436,1.54396 c 0.0199,0.0186 0.0269,0.0474 0.018,0.073 -0.009,0.0259 -0.0321,0.0439 -0.0592,0.0463 l -0.70197,0.0603 0.42086,0.91765 c 0.007,0.0164 0.008,0.0356 9.2e-4,0.0527 -0.006,0.0173 -0.0191,0.031 -0.0358,0.0385 l -0.30346,0.13785 c -0.009,0.004 -0.0186,0.006 -0.0286,0.006 z"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="400.49414"
+       y="190.07941"
+       id="text906"
+       inkscape:export-xdpi="32.048016"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"><tspan
+         sodipodi:role="line"
+         id="tspan904"
+         x="400.49414"
+         y="190.07941"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332">514-943-5396</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path912"
+       d="m 417.58251,114.56076 c -0.24131,-0.42081 -0.4572,-0.82799 -0.47976,-0.90481 -0.12846,-0.43751 0.0788,-0.90755 0.49259,-1.11726 0.29444,-0.1492 0.61312,-0.14373 0.91355,0.0157 0.18583,0.0986 0.31034,0.23506 0.41392,0.45365 0.0716,0.15121 0.0895,0.23583 0.0878,0.38782 -9.2e-4,0.14524 -0.0259,0.25551 -0.0605,0.33926 -0.0578,0.13968 -0.89082,1.59029 -0.91346,1.59059 -0.008,7e-5 -0.21277,-0.34411 -0.45408,-0.76494 z m 0.81249,-0.17673 c 0.37691,-0.65474 0.41886,-0.74617 0.43439,-0.9469 0.0238,-0.3075 -0.17655,-0.63682 -0.46335,-0.76167 -0.18697,-0.0814 -0.4676,-0.0811 -0.65542,9.3e-4 -0.27999,0.12184 -0.47159,0.42227 -0.46686,0.73199 0.003,0.19535 0.056,0.31413 0.43523,0.97496 0.2575,0.44872 0.36843,0.59508 0.36843,0.59508 0,0 0.17559,-0.29532 0.34758,-0.59409 z m -0.4906,-0.52398 c -0.20879,-0.0628 -0.38042,-0.2835 -0.37916,-0.4874 9.2e-4,-0.23827 0.19225,-0.45632 0.43988,-0.50279 0.30766,-0.0577 0.63211,0.26708 0.57564,0.57623 -0.0553,0.30251 -0.35624,0.49829 -0.63636,0.41396 z m 0.30248,-0.20628 c 0.23941,-0.14796 0.20342,-0.49699 -0.0609,-0.59033 -0.29368,-0.10373 -0.55105,0.21424 -0.38754,0.47881 0.1001,0.16196 0.29026,0.20925 0.44839,0.11152 z"
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.99999988"
+       sodipodi:nodetypes="scccccccscscccccccscccssccs" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 418.64685,115.97135 h -1.21806 c -0.11658,0 -0.21068,0.0945 -0.21068,0.21088 v 2.47348 c 0,0.11626 0.0941,0.21068 0.21068,0.21068 h 1.21806 c 0.11637,0 0.21068,-0.0944 0.21068,-0.21068 v -2.47348 c 0,-0.11635 -0.0943,-0.21088 -0.21068,-0.21088 z m -0.90959,0.12807 h 0.60133 c 0.0152,0 0.0276,0.0226 0.0276,0.0507 0,0.0281 -0.0124,0.0509 -0.0276,0.0509 h -0.60133 c -0.0153,0 -0.0274,-0.0228 -0.0274,-0.0509 0,-0.0281 0.0121,-0.0507 0.0274,-0.0507 z m 0.30067,2.55882 c -0.0742,0 -0.1345,-0.0603 -0.1345,-0.13461 0,-0.0743 0.0603,-0.1344 0.1345,-0.1344 0.074,0 0.13429,0.0601 0.13429,0.1344 0,0.0743 -0.0603,0.13461 -0.13429,0.13461 z m 0.66177,-0.46091 h -1.32365 v -1.87014 h 1.32365 z"
+       id="path914"
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 417.16569,43.198953 c -0.008,0 -0.0167,-9.2e-4 -0.0249,-0.005 -0.0173,-0.006 -0.031,-0.02 -0.0385,-0.0369 l -0.40228,-0.93004 -0.50056,0.4704 c -0.02,0.0189 -0.0492,0.0237 -0.0746,0.0129 -0.025,-0.0108 -0.0415,-0.0358 -0.0415,-0.0632 v -2.27473 c 0,-0.0274 0.0162,-0.0522 0.0415,-0.0632 0.025,-0.0108 0.0544,-0.006 0.0746,0.0129 l 1.65436,1.54396 c 0.0199,0.0186 0.0269,0.0474 0.018,0.073 -0.009,0.0259 -0.0321,0.0439 -0.0592,0.0463 l -0.70197,0.0603 0.42086,0.91765 c 0.007,0.0164 0.008,0.0356 9.2e-4,0.0527 -0.006,0.0173 -0.0191,0.031 -0.0358,0.0385 l -0.30346,0.13785 c -0.009,0.004 -0.0186,0.006 -0.0286,0.006 z"
+       id="path927"
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.26458332" />
+    <g
+       transform="matrix(0.00479016,0,0,0.00479016,386.93011,193.43971)"
+       id="g917"
+       style="fill:#006e24;fill-opacity:1;stroke-width:55.23484421">
+      <path
+         d="M 295.2,257.8 251.4,295 c -3.5,2.9 -8.6,2.9 -12,0 L 195.6,257.9 16.7,409.1 h 456.6 z"
+         id="path908"
+         inkscape:connector-curvature="0"
+         style="fill:#006e24;fill-opacity:1;stroke-width:55.23484421" />
+      <polygon
+         points="0,397.8 180.1,245 0,92.2 "
+         id="polygon910"
+         style="fill:#006e24;fill-opacity:1;stroke-width:55.23484421" />
+      <polygon
+         points="245,274.6 473.3,80.9 16.7,80.9 "
+         id="polygon912"
+         style="fill:#006e24;fill-opacity:1;stroke-width:55.23484421" />
+      <polygon
+         points="490,397.8 490,92.2 309.9,245 "
+         id="polygon914"
+         style="fill:#006e24;fill-opacity:1;stroke-width:55.23484421" />
+    </g>
+    <g
+       style="fill:#006e24;fill-opacity:1;stroke-width:50.23016739"
+       id="g927"
+       transform="matrix(0.00526743,0,0,0.00526743,415.68896,36.920055)">
+      <path
+         style="fill:#006e24;fill-opacity:1;stroke-width:50.23016739"
+         inkscape:connector-curvature="0"
+         id="path919"
+         d="M 295.2,257.8 251.4,295 c -3.5,2.9 -8.6,2.9 -12,0 L 195.6,257.9 16.7,409.1 h 456.6 z" />
+      <polygon
+         style="fill:#006e24;fill-opacity:1;stroke-width:50.23016739"
+         id="polygon921"
+         points="180.1,245 0,92.2 0,397.8 " />
+      <polygon
+         style="fill:#006e24;fill-opacity:1;stroke-width:50.23016739"
+         id="polygon923"
+         points="473.3,80.9 16.7,80.9 245,274.6 " />
+      <polygon
+         style="fill:#006e24;fill-opacity:1;stroke-width:50.23016739"
+         id="polygon925"
+         points="490,92.2 309.9,245 490,397.8 " />
+    </g>
+    <g
+       id="g936"
+       transform="translate(2.5256972,-3.2335035)">
+      <path
+         style="fill:#006e24;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         d="m 443.35047,153.19533 h -15.05479 c -1.3417,0 -2.43337,1.09167 -2.43337,2.43337 v 8.6577 c 0,1.3417 1.09167,2.43337 2.43337,2.43337 h 15.05479 c 1.34171,0 2.43338,-1.09167 2.43338,-2.43337 v -8.65744 c 2.6e-4,-1.34196 -1.09141,-2.43363 -2.43338,-2.43363 z m -1.18903,1.5875 -6.33836,4.08358 -6.33836,-4.08358 z m 1.18903,10.3497 h -15.05479 c -0.46646,0 -0.84587,-0.37967 -0.84587,-0.84587 v -8.61272 l 7.88352,5.06942 c 0.0106,0.007 0.022,0.0111 0.0328,0.0172 0.0114,0.006 0.023,0.0124 0.0347,0.0183 0.0611,0.0315 0.12409,0.0569 0.18839,0.0736 0.007,0.002 0.0132,0.003 0.0198,0.004 0.0706,0.0167 0.14208,0.027 0.21352,0.027 2.6e-4,0 5.3e-4,0 5.3e-4,0 5.3e-4,0 7.9e-4,0 0.001,0 0.0714,0 0.14287,-0.0101 0.21352,-0.027 0.007,-0.002 0.0132,-0.002 0.0198,-0.004 0.0643,-0.0167 0.127,-0.0421 0.18838,-0.0736 0.0116,-0.006 0.0233,-0.0119 0.0347,-0.0183 0.0109,-0.006 0.0222,-0.0106 0.0328,-0.0172 l 7.88352,-5.06942 v 8.61246 c -2.6e-4,0.46646 -0.37994,0.84613 -0.8464,0.84613 z"
+         id="path2-0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.62602666,0,0,0.62602666,158.88697,72.772719)"
+       id="g940"
+       style="stroke-width:1.59737611">
+      <path
+         inkscape:connector-curvature="0"
+         id="path938"
+         d="m 443.35047,153.19533 h -15.05479 c -1.3417,0 -2.43337,1.09167 -2.43337,2.43337 v 8.6577 c 0,1.3417 1.09167,2.43337 2.43337,2.43337 h 15.05479 c 1.34171,0 2.43338,-1.09167 2.43338,-2.43337 v -8.65744 c 2.6e-4,-1.34196 -1.09141,-2.43363 -2.43338,-2.43363 z m -1.18903,1.5875 -6.33836,4.08358 -6.33836,-4.08358 z m 1.18903,10.3497 h -15.05479 c -0.46646,0 -0.84587,-0.37967 -0.84587,-0.84587 v -8.61272 l 7.88352,5.06942 c 0.0106,0.007 0.022,0.0111 0.0328,0.0172 0.0114,0.006 0.023,0.0124 0.0347,0.0183 0.0611,0.0315 0.12409,0.0569 0.18839,0.0736 0.007,0.002 0.0132,0.003 0.0198,0.004 0.0706,0.0167 0.14208,0.027 0.21352,0.027 2.6e-4,0 5.3e-4,0 5.3e-4,0 5.3e-4,0 7.9e-4,0 0.001,0 0.0714,0 0.14287,-0.0101 0.21352,-0.027 0.007,-0.002 0.0132,-0.002 0.0198,-0.004 0.0643,-0.0167 0.127,-0.0421 0.18838,-0.0736 0.0116,-0.006 0.0233,-0.0119 0.0347,-0.0183 0.0109,-0.006 0.0222,-0.0106 0.0328,-0.0172 l 7.88352,-5.06942 v 8.61246 c -2.6e-4,0.46646 -0.37994,0.84613 -0.8464,0.84613 z"
+         style="fill:#006e24;fill-opacity:1;stroke:none;stroke-width:0.42263907;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke-width:7.57934427"
+       id="g944"
+       transform="matrix(0.13193754,0,0,0.13193754,360.5364,99.855186)">
+      <path
+         style="fill:#006e24;fill-opacity:1;stroke:none;stroke-width:2.00536799;stroke-opacity:1"
+         d="m 443.35047,153.19533 h -15.05479 c -1.3417,0 -2.43337,1.09167 -2.43337,2.43337 v 8.6577 c 0,1.3417 1.09167,2.43337 2.43337,2.43337 h 15.05479 c 1.34171,0 2.43338,-1.09167 2.43338,-2.43337 v -8.65744 c 2.6e-4,-1.34196 -1.09141,-2.43363 -2.43338,-2.43363 z m -1.18903,1.5875 -6.33836,4.08358 -6.33836,-4.08358 z m 1.18903,10.3497 h -15.05479 c -0.46646,0 -0.84587,-0.37967 -0.84587,-0.84587 v -8.61272 l 7.88352,5.06942 c 0.0106,0.007 0.022,0.0111 0.0328,0.0172 0.0114,0.006 0.023,0.0124 0.0347,0.0183 0.0611,0.0315 0.12409,0.0569 0.18839,0.0736 0.007,0.002 0.0132,0.003 0.0198,0.004 0.0706,0.0167 0.14208,0.027 0.21352,0.027 2.6e-4,0 5.3e-4,0 5.3e-4,0 5.3e-4,0 7.9e-4,0 0.001,0 0.0714,0 0.14287,-0.0101 0.21352,-0.027 0.007,-0.002 0.0132,-0.002 0.0198,-0.004 0.0643,-0.0167 0.127,-0.0421 0.18838,-0.0736 0.0116,-0.006 0.0233,-0.0119 0.0347,-0.0183 0.0109,-0.006 0.0222,-0.0106 0.0328,-0.0172 l 7.88352,-5.06942 v 8.61246 c -2.6e-4,0.46646 -0.37994,0.84613 -0.8464,0.84613 z"
+         id="path942"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 359.94943,155.19455 c -0.008,0.002 -0.0165,0.005 -0.0248,0.008 -0.0114,0.005 -0.0227,0.0103 -0.0331,0.0165 -0.003,0 -0.005,0 -0.008,0 -0.005,0.002 -0.0114,0.005 -0.0165,0.008 -0.003,0.003 -0.005,0.005 -0.008,0.008 -0.003,0.003 -0.005,0.005 -0.008,0.008 -0.008,0.005 -0.0165,0.0103 -0.0248,0.0165 -0.006,0.005 -0.0114,0.0103 -0.0165,0.0165 -0.003,0.005 -0.006,0.0114 -0.008,0.0165 -0.009,0.0103 -0.0176,0.0217 -0.0248,0.0331 -0.003,0.003 -0.005,0.005 -0.008,0.008 0,0.003 0,0.005 0,0.008 -0.003,0.005 -0.006,0.0114 -0.008,0.0165 -0.003,0.003 -0.005,0.005 -0.008,0.008 0,0.005 0,0.0114 0,0.0165 -0.003,0.0103 -0.006,0.0217 -0.008,0.0331 0,0.008 0,0.0165 0,0.0248 0,0.003 0,0.005 0,0.008 0,0.003 0,0.005 0,0.008 -0.001,0.0134 -0.001,0.0279 0,0.0413 v 8.68991 c 10e-4,0.10542 0.0641,0.20051 0.16123,0.24185 0.0961,0.0413 0.20878,0.0207 0.28526,-0.0517 l 1.91823,-1.80247 1.54616,3.57187 c 0.0289,0.0651 0.0827,0.11679 0.14986,0.14159 0.0672,0.0248 0.14159,0.0217 0.20567,-0.009 l 1.15755,-0.52947 c 0.13126,-0.0599 0.19017,-0.21497 0.13229,-0.34726 l -1.6123,-3.52227 2.69544,-0.23151 c 0.10645,-0.007 0.19844,-0.0775 0.23358,-0.1788 0.0341,-0.10129 0.004,-0.21394 -0.0765,-0.28422 l -6.30866,-5.87871 c -0.0124,-0.0155 -0.0258,-0.0289 -0.0413,-0.0413 -0.0103,-0.0124 -0.0207,-0.0227 -0.0331,-0.0331 -0.003,0 -0.005,0 -0.008,0 -0.005,-0.006 -0.0103,-0.0114 -0.0165,-0.0165 -0.003,0 -0.005,0 -0.008,0 -0.0134,-0.006 -0.0269,-0.0124 -0.0413,-0.0165 -0.003,0 -0.005,0 -0.008,0 -0.005,-0.003 -0.0114,-0.006 -0.0165,-0.008 -0.003,0 -0.005,0 -0.008,0 -0.005,0 -0.0114,0 -0.0165,0 -0.003,0 -0.005,0 -0.008,0 -0.005,0 -0.0114,0 -0.0165,0 -0.003,0 -0.005,0 -0.008,0 -0.008,0 -0.0165,0 -0.0248,0 -0.008,0 -0.0165,0 -0.0248,0 z m 0.32246,0.86817 5.47357,5.10976 -2.48047,0.21498 c -0.0847,0.008 -0.1602,0.0568 -0.20257,0.13126 -0.0434,0.0734 -0.0475,0.16329 -0.0124,0.24081 l 1.66191,3.62148 -0.678,0.30593 -1.5875,-3.66283 c -0.0341,-0.0786 -0.10335,-0.13642 -0.18706,-0.15399 -0.0837,-0.0186 -0.17157,0.005 -0.23462,0.063 l -1.75286,1.64537 z"
+       id="path2-9"
+       style="stroke-width:0.26458332;fill:#006e24;fill-opacity:1" />
+    <path
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.26458332"
+       id="path960"
+       d="m 396.49275,187.84093 c -0.002,5.3e-4 -0.004,9.8e-4 -0.007,0.002 -0.003,9.7e-4 -0.006,0.003 -0.009,0.004 -7.8e-4,0 -9.7e-4,0 -0.002,0 -9.7e-4,5.2e-4 -0.003,9.7e-4 -0.004,0.002 -7.8e-4,7.7e-4 -9.8e-4,9.7e-4 -0.002,0.002 -7.8e-4,7.9e-4 -9.7e-4,9.7e-4 -0.002,0.002 -0.002,9.7e-4 -0.004,0.003 -0.007,0.004 -0.002,9.7e-4 -0.003,0.003 -0.004,0.004 -7.8e-4,9.7e-4 -0.002,0.003 -0.002,0.004 -0.002,0.003 -0.005,0.006 -0.007,0.009 -7.8e-4,7.9e-4 -9.7e-4,9.8e-4 -0.002,0.002 0,7.8e-4 0,9.7e-4 0,0.002 -7.8e-4,9.8e-4 -0.002,0.003 -0.002,0.004 -7.9e-4,7.7e-4 -9.7e-4,9.7e-4 -0.002,0.002 0,9.7e-4 0,0.003 0,0.004 -7.7e-4,0.003 -0.002,0.006 -0.002,0.009 0,0.002 0,0.004 0,0.007 0,7.7e-4 0,9.7e-4 0,0.002 0,7.8e-4 0,9.7e-4 0,0.002 -2.6e-4,0.004 -2.6e-4,0.007 0,0.0108 v 2.26459 c 2.6e-4,0.0274 0.0167,0.0522 0.042,0.063 0.025,0.0108 0.0544,0.006 0.0743,-0.0134 l 0.49989,-0.46972 0.40293,0.93083 c 0.008,0.0169 0.0216,0.0305 0.039,0.0369 0.0175,0.007 0.0369,0.006 0.0536,-0.002 l 0.30166,-0.13797 c 0.0342,-0.0157 0.0495,-0.056 0.0344,-0.0905 l -0.42016,-0.91789 0.70243,-0.0603 c 0.0277,-0.002 0.0517,-0.0202 0.0609,-0.0466 0.009,-0.0264 9.7e-4,-0.0557 -0.0199,-0.074 l -1.64404,-1.532 c -0.003,-0.004 -0.007,-0.008 -0.0108,-0.0108 -0.003,-0.003 -0.006,-0.006 -0.009,-0.009 -7.9e-4,0 -9.8e-4,0 -0.002,0 -9.7e-4,-0.002 -0.003,-0.003 -0.004,-0.004 -7.8e-4,0 -9.7e-4,0 -0.002,0 -0.004,-0.002 -0.007,-0.003 -0.0108,-0.004 -7.8e-4,0 -9.7e-4,0 -0.002,0 -9.7e-4,-7.7e-4 -0.003,-0.002 -0.004,-0.002 -7.8e-4,0 -9.7e-4,0 -0.002,0 -9.8e-4,0 -0.003,0 -0.004,0 -7.8e-4,0 -9.7e-4,0 -0.002,0 -9.7e-4,0 -0.003,0 -0.004,0 -7.8e-4,0 -9.7e-4,0 -0.002,0 -0.002,0 -0.004,0 -0.007,0 -0.002,0 -0.004,0 -0.007,0 z m 0.084,0.22625 1.42641,1.33161 -0.64641,0.056 c -0.0221,0.002 -0.0417,0.0148 -0.0528,0.0342 -0.0113,0.0192 -0.0123,0.0425 -0.003,0.0627 l 0.43309,0.94376 -0.17669,0.0798 -0.41371,-0.95454 c -0.009,-0.0205 -0.0269,-0.0355 -0.0487,-0.0401 -0.0218,-0.005 -0.0447,9.7e-4 -0.0612,0.0164 l -0.45679,0.42878 z"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 417.19462,123.05344 c -0.002,5.3e-4 -0.004,9.8e-4 -0.007,0.002 -0.003,9.7e-4 -0.006,0.003 -0.009,0.004 -7.8e-4,0 -9.7e-4,0 -0.002,0 -9.7e-4,5.2e-4 -0.003,9.7e-4 -0.004,0.002 -7.8e-4,7.7e-4 -9.8e-4,9.7e-4 -0.002,0.002 -7.8e-4,7.9e-4 -9.7e-4,9.7e-4 -0.002,0.002 -0.002,9.7e-4 -0.004,0.003 -0.007,0.004 -0.002,9.7e-4 -0.003,0.003 -0.004,0.004 -7.8e-4,9.7e-4 -0.002,0.003 -0.002,0.004 -0.002,0.003 -0.005,0.006 -0.007,0.009 -7.8e-4,7.9e-4 -9.7e-4,9.8e-4 -0.002,0.002 0,7.8e-4 0,9.7e-4 0,0.002 -7.8e-4,9.8e-4 -0.002,0.003 -0.002,0.004 -7.9e-4,7.7e-4 -9.7e-4,9.7e-4 -0.002,0.002 0,9.7e-4 0,0.003 0,0.004 -7.7e-4,0.003 -0.002,0.006 -0.002,0.009 0,0.002 0,0.004 0,0.007 0,7.7e-4 0,9.7e-4 0,0.002 0,7.8e-4 0,9.7e-4 0,0.002 -2.6e-4,0.004 -2.6e-4,0.007 0,0.0108 v 2.26459 c 2.6e-4,0.0274 0.0167,0.0522 0.042,0.063 0.025,0.0108 0.0544,0.006 0.0743,-0.0134 l 0.49989,-0.46972 0.40293,0.93083 c 0.008,0.0169 0.0216,0.0305 0.039,0.0369 0.0175,0.007 0.0369,0.006 0.0536,-0.002 l 0.30166,-0.13797 c 0.0342,-0.0157 0.0495,-0.056 0.0344,-0.0905 l -0.42016,-0.91789 0.70243,-0.0603 c 0.0277,-0.002 0.0517,-0.0202 0.0609,-0.0466 0.009,-0.0264 9.8e-4,-0.0557 -0.0199,-0.074 l -1.64404,-1.532 c -0.003,-0.004 -0.007,-0.008 -0.0108,-0.0108 -0.003,-0.003 -0.006,-0.006 -0.009,-0.009 -7.9e-4,0 -9.8e-4,0 -0.002,0 -9.7e-4,-0.002 -0.003,-0.003 -0.004,-0.004 -7.8e-4,0 -9.7e-4,0 -0.002,0 -0.004,-0.002 -0.007,-0.003 -0.0108,-0.004 -7.8e-4,0 -9.7e-4,0 -0.002,0 -9.7e-4,-7.7e-4 -0.003,-0.002 -0.004,-0.002 -7.8e-4,0 -9.7e-4,0 -0.002,0 -9.8e-4,0 -0.003,0 -0.004,0 -7.8e-4,0 -9.7e-4,0 -0.002,0 -9.7e-4,0 -0.003,0 -0.004,0 -7.8e-4,0 -9.7e-4,0 -0.002,0 -0.002,0 -0.004,0 -0.007,0 -0.002,0 -0.004,0 -0.007,0 z m 0.084,0.22625 1.42641,1.33161 -0.64641,0.056 c -0.0221,0.002 -0.0417,0.0148 -0.0528,0.0342 -0.0113,0.0192 -0.0123,0.0425 -0.003,0.0627 l 0.43309,0.94376 -0.17669,0.0798 -0.41371,-0.95454 c -0.009,-0.0205 -0.0269,-0.0355 -0.0487,-0.0401 -0.0218,-0.005 -0.0447,9.7e-4 -0.0612,0.0164 l -0.45679,0.42878 z"
+       id="path963"
+       style="display:inline;fill:#006e24;fill-opacity:1;stroke-width:0.26458332" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#006e24;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1025"
+       width="88.100006"
+       height="50"
+       x="376.10831"
+       y="7.7468338" />
+    <text
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-xdpi="32.048016"
+       id="text1029"
+       y="35.427429"
+       x="420.02396"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332"
+         y="35.427429"
+         x="420.02396"
+         id="tspan1027"
+         sodipodi:role="line">514-943-5396</tspan></text>
+    <text
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-xdpi="32.048016"
+       id="text1033"
+       y="42.314507"
+       x="420.15488"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332"
+         y="42.314507"
+         x="420.15488"
+         id="tspan1031"
+         sodipodi:role="line">www.orthophoniechezsoi.ca</tspan></text>
+    <text
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-xdpi="32.048016"
+       id="text1037"
+       y="38.773849"
+       x="420.15488"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332"
+         y="38.773849"
+         x="420.15488"
+         id="tspan1035"
+         sodipodi:role="line">orthophoniechezsoi@gmail.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="420.02396"
+       y="31.7777"
+       id="text1041"
+       inkscape:export-xdpi="32.048016"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"><tspan
+         sodipodi:role="line"
+         id="tspan1039"
+         x="420.02396"
+         y="31.7777"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332">6942 Alcide-Métivier, St-Hubert, Qc</tspan></text>
+    <g
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-xdpi="32.048016"
+       style="stroke-width:2.21624565"
+       transform="matrix(0.43847417,-0.10645898,0.10645924,0.43847516,262.75192,-47.040015)"
+       id="g1047">
+      <circle
+         r="25.586754"
+         cy="239.17358"
+         cx="235.6291"
+         id="circle1043"
+         style="opacity:1;fill:#006e24;fill-opacity:1;stroke:#000000;stroke-width:0.2216246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csczzcccszcsszcsscscc"
+         inkscape:connector-curvature="0"
+         id="path1045"
+         d="m 240.64686,264.25828 c -2.48469,-1.78336 -3.73663,-4.60811 -4.45083,-6.55276 -2.21292,-6.02541 -7.65671,-9.69385 -13.72822,-9.85188 6.90854,2.13365 12.20472,7.46055 11.72788,9.35494 -0.47684,1.89438 -3.83546,4.58752 -10.02747,0.9969 -6.19201,-3.59062 -4.75112,-12.32469 -12.98111,-13.03075 10.33711,-3.2032 24.52777,-1.25983 25.35039,9.32658 2.8799,-8.82508 0.92833,-18.03949 -6.55876,-24.05811 5.04092,5.71311 7.06803,14.16119 5.7523,14.34536 -2.65016,0.37096 -7.41559,-3.92209 -8.88775,-7.1671 -1.47216,-3.24502 -2.53923,-11.91716 -5.66523,-13.02378 15.9359,1.59229 20.44892,9.82884 18.4957,13.9294 -1.27747,2.68189 -1.30207,10.22465 -0.42638,10.50512 1.09481,0.35065 1.40788,-6.73457 6.57624,-9.4358 5.16837,-2.70123 10.71858,-3.10545 15.07931,0.95703 -4.78396,-0.55406 -6.48402,7.47804 -10.23883,12.0332 -2.99316,3.63116 -7.76491,2.99761 -9.58705,2.06186 -3.38081,-1.73619 5.37458,-9.91778 11.1449,-13.20815 -7.81696,2.40068 -13.29036,8.77241 -14.21953,15.59612 -0.32406,2.37985 2.3079,6.62033 6.21273,6.23376 -1.135,0.39785 -2.29285,0.76692 -3.56829,0.98806 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2216246;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#006e24;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 407.16542,21.436999 v 22.63714"
+       id="path1049"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-xdpi="32.048016"
+       id="text1053"
+       y="24.501678"
+       x="414.56763"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         y="24.501678"
+         x="414.56763"
+         id="tspan1051"
+         sodipodi:role="line">Mélodie Gagnon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="414.56763"
+       y="26.953886"
+       id="text1057"
+       inkscape:export-xdpi="32.048016"
+       inkscape:export-ydpi="32.048016"
+       inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"><tspan
+         sodipodi:role="line"
+         id="tspan1055"
+         x="414.56763"
+         y="26.953886"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.26458332">Orthophoniste, M.P.O.</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1059"
+       d="m 416.52417,31.811739 c -0.24131,-0.42081 -0.4572,-0.82799 -0.47976,-0.90481 -0.12846,-0.43751 0.0788,-0.90755 0.49259,-1.11726 0.29444,-0.1492 0.61312,-0.14373 0.91355,0.0157 0.18583,0.0986 0.31034,0.23506 0.41392,0.45365 0.0716,0.15121 0.0895,0.23583 0.0878,0.38782 -9.2e-4,0.14524 -0.0259,0.25551 -0.0605,0.33926 -0.0578,0.13968 -0.89082,1.59029 -0.91346,1.59059 -0.008,7e-5 -0.21277,-0.34411 -0.45408,-0.76494 z m 0.81249,-0.17673 c 0.37691,-0.65474 0.41886,-0.74617 0.43439,-0.9469 0.0238,-0.3075 -0.17655,-0.63682 -0.46335,-0.76167 -0.18697,-0.0814 -0.4676,-0.0811 -0.65542,9.3e-4 -0.27999,0.12184 -0.47159,0.42227 -0.46686,0.73199 0.003,0.19535 0.056,0.31413 0.43523,0.97496 0.2575,0.44872 0.36843,0.59508 0.36843,0.59508 0,0 0.17559,-0.29532 0.34758,-0.59409 z m -0.4906,-0.52398 c -0.20879,-0.0628 -0.38042,-0.2835 -0.37916,-0.4874 9.2e-4,-0.23827 0.19225,-0.45632 0.43988,-0.50279 0.30766,-0.0577 0.63211,0.26708 0.57564,0.57623 -0.0553,0.30251 -0.35624,0.49829 -0.63636,0.41396 z m 0.30248,-0.20628 c 0.23941,-0.14796 0.20342,-0.49699 -0.0609,-0.59033 -0.29368,-0.10373 -0.55105,0.21424 -0.38754,0.47881 0.1001,0.16196 0.29026,0.20925 0.44839,0.11152 z"
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.99999988"
+       sodipodi:nodetypes="scccccccscscccccccscccssccs" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 417.58851,33.222329 h -1.21806 c -0.11658,0 -0.21068,0.0945 -0.21068,0.21088 v 2.47348 c 0,0.11626 0.0941,0.21068 0.21068,0.21068 h 1.21806 c 0.11637,0 0.21068,-0.0944 0.21068,-0.21068 v -2.47348 c 0,-0.11635 -0.0943,-0.21088 -0.21068,-0.21088 z m -0.90959,0.12807 h 0.60133 c 0.0152,0 0.0276,0.0226 0.0276,0.0507 0,0.0281 -0.0124,0.0509 -0.0276,0.0509 h -0.60133 c -0.0153,0 -0.0274,-0.0228 -0.0274,-0.0509 0,-0.0281 0.0121,-0.0507 0.0274,-0.0507 z m 0.30067,2.55882 c -0.0742,0 -0.1345,-0.0603 -0.1345,-0.13461 0,-0.0743 0.0603,-0.1344 0.1345,-0.1344 0.074,0 0.13429,0.0601 0.13429,0.1344 0,0.0743 -0.0603,0.13461 -0.13429,0.13461 z m 0.66177,-0.46091 h -1.32365 v -1.87014 h 1.32365 z"
+       id="path1061"
+       style="fill:#006e24;fill-opacity:1;stroke-width:0.26458332" />
+    <rect
+       y="89.437515"
+       x="485.45282"
+       height="50"
+       width="88.100006"
+       id="rect1702"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#006e24;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g1734"
+       transform="matrix(0.42268624,0,0,0.42268624,301.97297,143.45094)"
+       style="stroke-width:2.36582112">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:23.98835182px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62595677"
+         x="438.55423"
+         y="-52.641869"
+         id="text1706"
+         inkscape:export-xdpi="32.048016"
+         inkscape:export-ydpi="32.048016"
+         inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"><tspan
+           sodipodi:role="line"
+           x="438.55423"
+           y="-52.641869"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.16666603px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.62595677"
+           id="tspan1704">Orthophonie chez soi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62595677"
+         x="490.87524"
+         y="-39.215446"
+         id="text1710"
+         inkscape:export-xdpi="32.048016"
+         inkscape:export-ydpi="32.048016"
+         inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"><tspan
+           sodipodi:role="line"
+           id="tspan1708"
+           x="490.87524"
+           y="-39.215446"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222214px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.62595677">Mélodie Gagnon M.P.O.</tspan></text>
+      <g
+         transform="translate(403.84405,-267.09939)"
+         id="g1716"
+         style="stroke-width:2.36582112">
+        <path
+           inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path1712"
+           d="m 144.78659,170.995 h 4.46581 v 6.56312 l -4.46581,-1.47211 z"
+           style="fill:#010201;fill-opacity:1;stroke:none;stroke-width:0.62595677px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           inkscape:export-xdpi="32.048016"
+           inkscape:export-ydpi="32.048016" />
+        <path
+           inkscape:export-ydpi="32.048016"
+           inkscape:export-xdpi="32.048016"
+           inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png"
+           inkscape:connector-curvature="0"
+           id="path1714"
+           d="m 133.76496,167.15266 c -18.11409,11.55518 -36.320843,22.32898 -55.052454,28.65458 18.350704,-4.53375 36.701754,-11.85149 55.052454,-22.02966 18.3507,10.17817 36.70124,17.49591 55.05194,22.02966 -18.73161,-6.3256 -36.93785,-17.0994 -55.05194,-28.65458 z"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.62595677px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         id="g1722"
+         transform="matrix(0.37849574,-0.09189656,0.09189678,0.3784966,430.08373,-144.08587)"
+         style="stroke-width:6.07411242"
+         inkscape:export-xdpi="32.048016"
+         inkscape:export-ydpi="32.048016"
+         inkscape:export-filename="/home/mgouin/Documents/Mélodie/OrphophonieChezSoi/git/logo_email.png">
+        <circle
+           style="opacity:1;fill:#006e24;fill-opacity:1;stroke:#000000;stroke-width:0.60741132;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1718"
+           cx="235.6291"
+           cy="239.17358"
+           r="25.586754" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.60741132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 240.64686,264.25828 c -2.48469,-1.78336 -3.73663,-4.60811 -4.45083,-6.55276 -2.21292,-6.02541 -7.65671,-9.69385 -13.72822,-9.85188 6.90854,2.13365 12.20472,7.46055 11.72788,9.35494 -0.47684,1.89438 -3.83546,4.58752 -10.02747,0.9969 -6.19201,-3.59062 -4.75112,-12.32469 -12.98111,-13.03075 10.33711,-3.2032 24.52777,-1.25983 25.35039,9.32658 2.8799,-8.82508 0.92833,-18.03949 -6.55876,-24.05811 5.04092,5.71311 7.06803,14.16119 5.7523,14.34536 -2.65016,0.37096 -7.41559,-3.92209 -8.88775,-7.1671 -1.47216,-3.24502 -2.53923,-11.91716 -5.66523,-13.02378 15.9359,1.59229 20.44892,9.82884 18.4957,13.9294 -1.27747,2.68189 -1.30207,10.22465 -0.42638,10.50512 1.09481,0.35065 1.40788,-6.73457 6.57624,-9.4358 5.16837,-2.70123 10.71858,-3.10545 15.07931,0.95703 -4.78396,-0.55406 -6.48402,7.47804 -10.23883,12.0332 -2.99316,3.63116 -7.76491,2.99761 -9.58705,2.06186 -3.38081,-1.73619 5.37458,-9.91778 11.1449,-13.20815 -7.81696,2.40068 -13.29036,8.77241 -14.21953,15.59612 -0.32406,2.37985 2.3079,6.62033 6.21273,6.23376 -1.135,0.39785 -2.29285,0.76692 -3.56829,0.98806 z"
+           id="path1720"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csczzcccszcsszcsscscc" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="408.53174"
+       y="84.565437"
+       id="text1738"><tspan
+         sodipodi:role="line"
+         id="tspan1736"
+         x="408.53174"
+         y="84.565437"
+         style="stroke-width:0.26458332">recto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05555534px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="515.02881"
+       y="84.268265"
+       id="text1742"><tspan
+         sodipodi:role="line"
+         id="tspan1740"
+         x="515.02881"
+         y="84.268265"
+         style="stroke-width:0.26458332">verso</tspan></text>
   </g>
 </svg>
