@@ -9,7 +9,6 @@ Public files for Orthophonie chez soi (Mélodie Gagnon).  These consist mainly o
 * `<p class="class1 class2">hello</p>` More than one class can be selected (space separated).
 
 ### CSS
-
 * `element` (ex: p)
 * `#id`
 * `.class` (ex: .myClass)
