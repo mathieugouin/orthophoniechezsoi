@@ -1,0 +1,51 @@
+            body {
+                font-family: arial, sans-serif;
+            }
+
+            p, div, ul, li {
+                font-size: 10pt;
+                line-height: 1;
+            }
+
+            ul li {
+                padding: 5px 0px;
+            }
+
+            p {
+                line-height: 115%;
+                margin-block-start: 1em;
+                margin-block-end: 1.5em;
+            }
+
+            h1 {
+                font-size: 1.75em;
+            }
+
+            h2 {
+                font-size: 1.25em;
+            }
+
+            h1, h2, .accent, .accentb {
+                color: #006e24;
+            }
+
+            .accentb {
+                font-weight: bold;
+            }
+
+            .highlight {
+                background-color: #ffcc00;
+            }
+
+            a.normal {
+                text-decoration: none;
+                color: black;
+            }
+
+            table, th, tr, td {
+                border: none;
+            }
+
+            td {
+                padding: 6px;
+            }
