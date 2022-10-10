@@ -6,15 +6,15 @@ import os
 
 # idea:
 """
-            /* @import_begin("style.css") */
-            ...
-            /* @import_end */
+    /* @import_begin("style.css") */
+    ...
+    /* @import_end */
 
-            or
+    or
 
-            <!-- @import_begin("signature.html") -->
-            ...
-            <!-- @import_end -->
+    <!-- @import_begin("signature.html") -->
+    ...
+    <!-- @import_end -->
 """
 
 
