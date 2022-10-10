@@ -4,7 +4,6 @@ from __future__ import print_function
 import re
 import os
 
-# idea:
 """
     /* @import_begin("style.css") */
     ...
@@ -22,6 +21,8 @@ def read_import(f):
     content = None
     with open(f, 'r') as fh:
         content = fh.read()
+        # remove last newline in the import file content
+        content = re.sub('\n$', '', content)
     return content
 
 
