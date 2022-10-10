@@ -26,6 +26,7 @@ def read_import(f):
 
 
 def update(f):
+    print("Processing {} ...".format(f))
     infile_content = None
     with open(f, 'r') as fh:
         infile_content = fh.read()
@@ -37,6 +38,7 @@ def update(f):
 
                 m = re.search(r'@import_end', l)
                 if m is not None:
+                    print("  Found {}".format(m.group(0)))
                     import_content = None
 
                 if import_content is None:
@@ -44,6 +46,7 @@ def update(f):
 
                 m = re.search(r'@import_begin\("(.+?)"\)', l)
                 if m is not None:
+                    print("  Found {}".format(m.group(0)))
                     import_content = read_import(m.group(1))
                     fh.write(import_content + '\n')
 
