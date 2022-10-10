@@ -9,6 +9,12 @@ import os
             /* @import_begin("style.css") */
             ...
             /* @import_end */
+
+            or
+
+            <!-- @import_begin("signature.html") -->
+            ...
+            <!-- @import_end -->
 """
 
 
