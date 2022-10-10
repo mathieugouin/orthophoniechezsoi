@@ -10,7 +10,9 @@ import os
             ...
             /* @import_end */
 
-            <!-- @import_begin("header.html") -->
+            or
+
+            <!-- @import_begin("signature.html") -->
             ...
             <!-- @import_end -->
 """
