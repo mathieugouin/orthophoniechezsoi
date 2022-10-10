@@ -9,6 +9,10 @@ import os
             /* @import_begin("style.css") */
             ...
             /* @import_end */
+
+            <!-- @import_begin("header.html") -->
+            ...
+            <!-- @import_end -->
 """
 
 
@@ -46,6 +50,7 @@ def main():
     for f in os.listdir('.'):
         if f.endswith('.html'):
             update(f)
+
 
 if __name__ == "__main__":
     main()
