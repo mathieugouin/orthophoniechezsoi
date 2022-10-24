@@ -53,7 +53,7 @@ def update(f):
 
 
 def main():
-    for f in os.listdir('.'):
+    for f in sorted(os.listdir('.')):
         if f.endswith('.html'):
             update(f)
 
