@@ -2,7 +2,7 @@
                 font-family: arial, sans-serif;
             }
 
-            p, div, ul, li {
+            p, div, ul, li, td {
                 font-size: 10pt;
                 line-height: 1;
             }
@@ -48,4 +48,5 @@
 
             td {
                 padding: 6px;
+                vertical-align: top;
             }
