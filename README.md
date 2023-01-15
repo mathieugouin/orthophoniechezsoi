@@ -1,5 +1,5 @@
 # Orthophonie Chez Soi
-Public files for Orthophonie chez soi (Mélodie Gagnon).  These consist mainly of HTML email templates.
+Public files for Orthophonie chez soi, Mélodie Gagnon.  These consist mainly of HTML email templates.
 
 <https://mathieugouin.github.io/orthophoniechezsoi>
 
