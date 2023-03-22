@@ -19,3 +19,12 @@ Public files for Orthophonie chez soi, Mélodie Gagnon.  These consist mainly of
 * adjacent sibling selector (`+`)
 * general sibling selector (`~`)
  
+### Development
+#### Github workspace
+* `npm i -g http-server`
+* `http-server`
+* Click "Open in Browser"
+* Optional:
+  * Open command palette
+  * `Simple Browser: Show`
+  * Enter the previous URL (from Open in Browser)
