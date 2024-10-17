@@ -18,11 +18,10 @@ Public files for Orthophonie chez soi, Mélodie Gagnon.  These consist mainly of
 * child selector (`>`)
 * adjacent sibling selector (`+`)
 * general sibling selector (`~`)
- 
+
 ### Development
 #### Github workspace
-* `npm i -g http-server`
-* `http-server`
+* `python -m http.server`
 * Click "Open in Browser"
 * Optional:
   * Open command palette
