@@ -20,6 +20,9 @@ Public files for Orthophonie chez soi, Mélodie Gagnon.  These consist mainly of
 * general sibling selector (`~`)
 
 ### Development
+#### Sync common templates
+* `python html_update.py`
+
 #### Github workspace
 * `python -m http.server`
 * Click "Open in Browser"
